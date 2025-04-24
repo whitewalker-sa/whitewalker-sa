@@ -17,7 +17,7 @@
 
 
 ### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whitewalker-sa&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitewalker-sa&layout=compact&theme=radical)
 
