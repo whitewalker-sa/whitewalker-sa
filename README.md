@@ -30,22 +30,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitewalker-sa&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/whitewalker-sa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://portfolio-barayiti.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
