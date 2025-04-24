@@ -6,13 +6,14 @@
 - 🔭 I’m currently working on Health Appointment Scheduling API
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about APIs and Best Security Practices
-- ⚡ Fun fact: Security research is like being a detective in a movie about murder where you're also the killer
+- ⚡ Fun fact: Security research is like being a detective in a murder case where you're also the killer
 
 ---
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 ### 📈 GitHub Stats:
